@@ -1,2 +1,2 @@
-# 32_design_patterns
-32_design_patterns
+Extract from
+http://www.runoob.com/design-pattern/design-pattern-tutorial.html
